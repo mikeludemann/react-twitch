@@ -4,7 +4,7 @@ React Twitch Component
 
 ## Properties
 
-### Facebook
+### Twitch
 
 |Key|Value|Type|
 |:--|:----|:---|
