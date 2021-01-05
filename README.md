@@ -18,7 +18,7 @@ let data = {
   height: 480,
   channel: "yourname",
   layout: "video", /* Otherwise: video-with-chat */
-  allowfullscreen: "true" /* Otherwise: false */
+  allowfullscreen: "true", /* Otherwise: false */
   autoplay: false,
   theme: "light",  /* Otherwise: dark */
   time: "0h0m0s", /* Time where these video playback start */
